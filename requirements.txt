@@ -1,0 +1,10 @@
+pyprimo
+numpy
+panda
+scikit_learn
+lightgbm
+seaborn
+matplotlib
+xgboost
+
+
